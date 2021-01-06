@@ -1,6 +1,6 @@
 # Project Brief
 
-## Take My Books (BookYeet)
+## shelv
 
 Create a book sharing app for users to give, take or swap books between each other.
 
