@@ -26,7 +26,7 @@ const Header = ({ currentUser }) => {
 					<Link to="/">
 						<img
 							className="header-logo"
-							src={'../images/shelv.png'}
+							src={'../images/shelv-logo-3.png'}
 							alt={'logo'}
 						></img>
 					</Link>
