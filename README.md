@@ -10,7 +10,7 @@ The server is most easily run through the IntelliJ IDEA Community app. download 
 
 An API key is required for the app to be able to communicate with the barcode API and generate books. Get your API key from barcodelookup.com. They offer a 30day free trial.
 
-To add your API key to the app, create a new file in the components folder called APIkey.java and add the following code (replacing your_key with the key for barcodelookup).
+To add your API key to the app, create a new file in the `components` folder called `APIkey.java` and add the following code (replacing your_key with the key for barcodelookup).
 
 `package com.codeclan.example.server.components;
 
