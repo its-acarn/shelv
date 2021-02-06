@@ -2,13 +2,15 @@ Shelv is a community based book sharing app, where users are able to upload thei
 
 The app allows users to easily and quickly add books to be shared using the ISBN barcode number. They are then notified when a user requests that book, and are given the choice to share the book with that individual. The app then shares those users contact information to allow them to meet up and swap books.
 
+![shevl-website-homepage](./client/public/images/shelv-homepage.png)
+
 # Setup/Installation
 The app uses a JavaScript/React front end (client) and a Java/Spring backend (server). To setup the app for personal use:
 
 ## Server Setup
 The server is most easily run through the IntelliJ IDEA Community app. [download IntelliJ](https://www.jetbrains.com/idea/download/#section=mac)
 
-An API key is required for the app to be able to communicate with the barcode API and generate books. Get your API key from barcodelookup.com. They offer a 30day free trial.
+An API key is required for the app to be able to communicate with the barcode API and generate books. Get your API key from [barcodelookup.com](https://www.barcodelookup.com/api#sign-up). They offer a 30day free trial.
 
 To add your API key to the app, create a new file in the `components` folder called `APIkey.java` and add the following code (replacing your_key with the key for barcodelookup).
 
@@ -85,4 +87,4 @@ Developed by a team of 5 developers.
 App will assume user authentication has already been completed.
 
 # API, Libraries, Resources
-barcodelookup
+[barcodelookup](https://www.barcodelookup.com/api#sign-up)
