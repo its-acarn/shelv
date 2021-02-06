@@ -4,7 +4,7 @@ Shelv is a community based book sharing app, where users are able to upload thei
 
 The app allows users to easily and quickly add books to be shared using the ISBN barcode number. They are then notified when a user requests that book, and are given the choice to share the book with that individual. The app then shares those users contact information to allow them to meet up and swap books.
 
-![Image of homepage](./shelv-homepage.png)
+![Image of homepage](/shelv-homepage.png)
 
 ## Setup/Installation
 
