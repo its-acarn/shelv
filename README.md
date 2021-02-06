@@ -2,7 +2,7 @@ Shelv is a community based book sharing app, where users are able to upload thei
 
 The app allows users to easily and quickly add books to be shared using the ISBN barcode number. They are then notified when a user requests that book, and are given the choice to share the book with that individual. The app then shares those users contact information to allow them to meet up and swap books.
 
-![shevl-website-homepage](./client/shelv-homepage.png)
+![shelv-website-homepage](./shelv-homepage.png)
 
 # Setup/Installation
 The app uses a JavaScript/React front end (client) and a Java/Spring backend (server). To setup the app for personal use:
