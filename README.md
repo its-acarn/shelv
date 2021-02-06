@@ -36,7 +36,7 @@ Next in terminal starting from the root:
     $ cd server
     $ idea .
 
-In IntelliJ hit 'Run' the file `ServerApplication.java` found at `server/src/main/java/com/codeclan/example/server/ServerApplication.java`
+In IntelliJ right click and 'Run' the file `ServerApplication.java` found at `server/src/main/java/com/codeclan/example/server/ServerApplication.java`
 
 ### Client Setup
 Install node dependencies starting from root folder:
