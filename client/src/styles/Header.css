@@ -8,6 +8,12 @@ header {
 	overflow-y: hidden;
 }
 
+.header-logo {
+	padding: 0;
+	margin-left: 1vw;
+	height: 9vh;
+}
+
 .header-logo:hover {
 	cursor: pointer;
 }

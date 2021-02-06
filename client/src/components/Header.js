@@ -26,7 +26,7 @@ const Header = ({ currentUser }) => {
 					<Link to="/">
 						<img
 							className="header-logo"
-							src={'../images/BookYeetLogo.png'}
+							src={'../images/shelv.png'}
 							alt={'logo'}
 						></img>
 					</Link>
@@ -59,7 +59,7 @@ const Header = ({ currentUser }) => {
 					<Link to="/" >
 						<img
 							className="header-logo"
-							src={'../images/BookYeetLogo.png'}
+							src={'../images/shelv.png'}
 							alt={'logo'}
 						></img>
 					</Link>
